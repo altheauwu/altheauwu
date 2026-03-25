@@ -7,9 +7,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lanesuwu&label=profile%20views&color=adb3ff&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/lanesuwu?label=followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/lanesuwu?label=stars&style=social" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=altheauwu&label=profile%20views&color=adb3ff&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/altheauwu?label=followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/altheauwu?label=stars&style=social" alt="stars" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ## 🏆 github trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lanesuwu&theme=nord&column=7&no-frame=true" alt="github trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=altheauwu&theme=nord&column=7&no-frame=true" alt="github trophies" />
 </p>
 
 ---
@@ -35,15 +35,15 @@
 ## 📊 github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lanesuwu&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=altheauwu&show_icons=true&theme=tokyonight" alt="github stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lanesuwu&theme=tokyonight" alt="github streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=altheauwu&theme=tokyonight" alt="github streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanesuwu&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altheauwu&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
 
 ---
